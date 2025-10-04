@@ -1,7 +1,9 @@
-# Expense_Management_Odoo
-A modern expense reimbursement system built for hackathons.  
-It supports *multi-level approvals, **conditional workflows, **OCR for receipts, and **_real-time currency conversion_*.  
+# 💰 Expense Management System  
 
+A modern expense reimbursement system built for hackathons.  
+It supports *multi-level approvals, **conditional workflows, **OCR for receipts, and **real-time currency conversion*.  
+
+---
 
 ## 🚀 Tech Stack  
 
@@ -16,10 +18,11 @@ It supports *multi-level approvals, **conditional workflows, **OCR for receipts,
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
 
 *Database:*  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-800?style=flat&logo=mongoose&logoColor=white)  
 
 *Integrations:*  
 - RestCountries API 🌍  
 - ExchangeRate API 💱  
 - Google Vision API / Tesseract.js 📷  
+-
